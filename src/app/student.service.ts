@@ -29,7 +29,7 @@ export class StudentService {
     {
       id: '4',
       name: 'Bhumi',
-      email: 'bhumiCh@gmail.com',
+      email: 'bhumi@gmail.com',
       course: 'Civil Engineering',
       age: 24,
     },
