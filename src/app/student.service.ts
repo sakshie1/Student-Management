@@ -8,7 +8,7 @@ export class StudentService {
     {
       id: '1',
       name: 'Vidhya',
-      email: 'vidhya@gmail.com',
+      email: 'vidhya@19gmail.com',
       course: 'Computer Engineering',
       age: 22,
     },
