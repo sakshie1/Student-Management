@@ -28,8 +28,8 @@ export class StudentService {
     },
     {
       id: '4',
-      name: 'Rahul',
-      email: 'rahul@gmail.com',
+      name: 'Bhumi',
+      email: 'bhumi@gmail.com',
       course: 'Civil Engineering',
       age: 24,
     },
